@@ -4,4 +4,6 @@ Bem-vindo ao projeto **Café Raiz**, um site simples e elegante para promover ca
 
 ## Como acessar
 
--Clone o repositório clicando no  botão "<>Code", ou acesse diretamente pelo link: https://ocereza.github.io/cafe__raiz/
+-Clone o repositório clicando no  botão "<>Code", ou acesse diretamente pelo link: 
+
+https://ocereza.github.io/cafe__raiz/
